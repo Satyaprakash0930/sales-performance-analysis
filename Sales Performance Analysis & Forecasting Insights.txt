@@ -1,0 +1,9 @@
+Insights from Sales Performance Analysis & Forecasting
+
+The West region leads in total sales, followed by East and Central, while the South region lags behind.
+Top-selling products include office electronics like copiers, printers, and binding systems.
+Higher discounts negatively impact profit, with many discounted orders resulting in losses.
+Products priced in the ₹500–₹1000 range tend to generate consistent sales with decent profitability.
+Sales forecast using Prophet indicates steady growth and recurring seasonal trends over time.
+
+Project by: Satyaprakash Pandey
