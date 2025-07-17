@@ -26,8 +26,6 @@ This project analyzes historical sales data to uncover trends, patterns, and for
 - Seasonal peaks in sales around November-December
 - Predicted sales growth in the next 3 months
 
-## 🔮 Forecast Example:
-<img src="your-forecast-plot.png" width="500">
 
 ## 📌 Future Improvements:
 - Build an interactive dashboard using Tableau or Power BI
